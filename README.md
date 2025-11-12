@@ -1,6 +1,6 @@
 # Week 1 — Python Module Assignment (Professor: Anudit Pokhrel)
 
-This repository contains six small, focused Python scripts completed for the Week 1 assignment. Each script introduces a fundamental concept: type conversion and formatting, string parsing, indexing and slicing, conditional logic, frequency counting, and character classification.
+This repository contains six small, focused Python programs completed for the Week 1 assignment. Each script introduces a fundamental concept: type conversion and formatting, string parsing, indexing and slicing, conditional logic, frequency counting, and character classification.
 
 ## Project Overview
 - Purpose: Practice core Python concepts via small, interactive scripts.
