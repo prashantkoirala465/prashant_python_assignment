@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Environments
+.venv/
+venv/
+env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# Testing / Type Checking / Lint
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# Logs / Misc
+pip-log.txt
+*.log
+.env
+.ipynb_checkpoints/

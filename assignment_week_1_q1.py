@@ -1,0 +1,6 @@
+num = float(input("Please, enter a decimal number:"))
+int_num = int(num)
+str_num = str(num)
+print("Original float: {:.2f}".format(num))
+print("Converted to integer:", int_num)
+print('Converted to string: "{}"'.format(str_num))
