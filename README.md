@@ -115,12 +115,6 @@ This repository contains six small, focused Python scripts completed for the Wee
   - Q5: Mixed punctuation and spaces.
   - Q6: Strings with no letters.
 
-## Extensibility Ideas
-- Q2: Handle hyphenated names or non-Latin scripts.
-- Q3: Validate index and give helpful error messages.
-- Q4: Expand strong-character set, require digit/symbol combinations, add entropy checks.
-- Q5: Sort output alphabetically or by frequency.
-- Q6: Count and display individual vowel frequencies.
 
 ## Acknowledgements
 - Completed as part of the Python Module Week 1 assignment under Professor Anudit Pokhrel.
